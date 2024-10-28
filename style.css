@@ -229,12 +229,11 @@ ul p{
     font-size: o.76rem;
     text-align: center;
     padding-top: 25px;
-
-
 }
 .copyright{
     padding-top: 5px;
 }
+
 .box:hover{
     transition-timing-function: ease-out;
     font-size: 1.1rem;
