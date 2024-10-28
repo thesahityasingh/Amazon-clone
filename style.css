@@ -3,7 +3,7 @@
     font-family: Arial, Helvetica, sans-serif;
     border: border-box;
     transition-property: all;
-    transition-duration: 20ms;
+    transition-duration: 10ms;
 
 }
 
@@ -236,7 +236,7 @@ ul p{
     padding-top: 5px;
 }
 
-.box:hover{
+.box: hover{
     transition-timing-function: ease-out;
     font-size: 1.1rem;
 }
