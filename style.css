@@ -152,7 +152,7 @@
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
-    transition-timing-function: ease-in;
+    transition-timing-function: ease-out;
 
 }
 .box-image{
