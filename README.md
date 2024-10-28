@@ -1,2 +1,2 @@
 # Amazon-clone
-its a clone website 
+Basic Front-end Amazon Clone
