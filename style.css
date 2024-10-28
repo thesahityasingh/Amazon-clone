@@ -152,6 +152,7 @@
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
+    transition-timing-function: ease-in;
 
 }
 .box-image{
@@ -159,6 +160,7 @@
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    
 }
 .box-content{
     
